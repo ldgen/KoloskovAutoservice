@@ -23,6 +23,10 @@ namespace KoloskovAutoservice
         public ServicePage()
         {
             InitializeComponent();
+
+            var currentServices = Koloskov_AutoserviceEntities.GetContext().service_a_import.ToList();
+
+            ServiceListView.ItemsSource = currentServices;
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)

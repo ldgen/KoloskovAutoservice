@@ -18,3 +18,10 @@ D:\applications\visual studio\repos\KoloskovAutoservice\KoloskovAutoservice\Kolo
 D:\applications\visual studio\repos\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\KoloskovAutoservice.exe
 D:\applications\visual studio\repos\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\KoloskovAutoservice.pdb
 D:\applications\visual studio\repos\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\App.baml
+D:\applications\visual studio\repos\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\KoloskovAutoservice_Content.g.cs
+D:\applications\visual studio\repos\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\bin\Debug\EntityFramework.dll
+D:\applications\visual studio\repos\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\bin\Debug\EntityFramework.SqlServer.dll
+D:\applications\visual studio\repos\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\bin\Debug\EntityFramework.xml
+D:\applications\visual studio\repos\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\bin\Debug\EntityFramework.SqlServer.xml
+D:\applications\visual studio\repos\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\bin\Debug\ru\EntityFramework.resources.dll
+D:\applications\visual studio\repos\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\KoloskovAutoservice.csproj.CopyComplete
