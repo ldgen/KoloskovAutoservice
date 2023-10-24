@@ -26,7 +26,7 @@ namespace KoloskovAutoservice
         public string MainImagePath { get; set; }
         public string DurationInSeconds { get; set; }
         public decimal Cost { get; set; }
-        public Nullable<decimal> Discount { get; set; }
+        public Nullable<double> Discount { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<ClientService> ClientService { get; set; }

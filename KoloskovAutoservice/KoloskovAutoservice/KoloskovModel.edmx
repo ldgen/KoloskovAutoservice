@@ -98,8 +98,8 @@
           <Property Name="Title" Type="nvarchar" MaxLength="100" Nullable="false" />
           <Property Name="MainImagePath" Type="nvarchar" MaxLength="1000" />
           <Property Name="DurationInSeconds" Type="nvarchar" MaxLength="50" Nullable="false" />
-          <Property Name="Cost" Type="money" Nullable="false" />
-          <Property Name="Discount" Type="numeric" Precision="18" Scale="2" />
+          <Property Name="Cost" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+          <Property Name="Discount" Type="float" />
         </EntityType>
         <EntityType Name="ServicePhoto">
           <Key>
@@ -456,8 +456,8 @@
           <Property Name="Title" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
           <Property Name="MainImagePath" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" />
           <Property Name="DurationInSeconds" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
-          <Property Name="Cost" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
-          <Property Name="Discount" Type="Decimal" Precision="18" Scale="2" />
+          <Property Name="Cost" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+          <Property Name="Discount" Type="Double" />
           <NavigationProperty Name="ClientService" Relationship="Self.FK_ClientService_service_a_import" FromRole="service_a_import" ToRole="ClientService" />
           <NavigationProperty Name="ServicePhoto" Relationship="Self.FK_ServicePhoto_service_a_import" FromRole="service_a_import" ToRole="ServicePhoto" />
         </EntityType>

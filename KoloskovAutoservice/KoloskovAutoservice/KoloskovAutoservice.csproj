@@ -182,21 +182,22 @@
     <None Include="Resources\service_logo.png" />
   </ItemGroup>
   <ItemGroup>
+    <Resource Include="resourcesextra\service_logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
     <Content Include="KoloskovModel.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
-      <LastGenOutput>KoloskovModel.Context.cs</LastGenOutput>
       <DependentUpon>KoloskovModel.edmx</DependentUpon>
+      <LastGenOutput>KoloskovModel.Context.cs</LastGenOutput>
     </Content>
     <Content Include="KoloskovModel.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>KoloskovModel.edmx</DependentUpon>
       <LastGenOutput>KoloskovModel.cs</LastGenOutput>
     </Content>
-    <Resource Include="resourcesextra\service_logo.png" />
   </ItemGroup>
-  <ItemGroup>
-    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
-  </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

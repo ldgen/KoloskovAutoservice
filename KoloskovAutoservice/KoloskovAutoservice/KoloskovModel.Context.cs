@@ -19,7 +19,7 @@ namespace KoloskovAutoservice
 
         public static Koloskov_AutoserviceEntities GetContext()
         {
-            if (_context == null)
+            if(_context == null)
                 _context = new Koloskov_AutoserviceEntities();
 
             return _context;

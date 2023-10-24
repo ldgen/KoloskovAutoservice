@@ -93,8 +93,8 @@
     <Property Name="Title" Type="nvarchar" MaxLength="100" Nullable="false" />
     <Property Name="MainImagePath" Type="nvarchar" MaxLength="1000" />
     <Property Name="DurationInSeconds" Type="nvarchar" MaxLength="50" Nullable="false" />
-    <Property Name="Cost" Type="money" Nullable="false" />
-    <Property Name="Discount" Type="numeric" Precision="18" Scale="2" />
+    <Property Name="Cost" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="Discount" Type="float" />
   </EntityType>
   <EntityType Name="ServicePhoto">
     <Key>
