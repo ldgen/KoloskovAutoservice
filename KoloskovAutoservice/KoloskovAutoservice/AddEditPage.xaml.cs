@@ -42,11 +42,14 @@ namespace KoloskovAutoservice
             if (_currentService.Cost <= 0)
                 errors.AppendLine("Укажите стоимость услуги");
 
-            if (string.IsNullOrWhiteSpace(Convert.ToString(_currentService.Discount)))
+            if (string.IsNullOrWhiteSpace(Convert.ToString(_currentService.Discount)) || _currentService.Discount < 0 || _currentService.Discount > 100)
                 errors.AppendLine("Укажите скидку");
 
-            if (string.IsNullOrWhiteSpace(_currentService.DurationInSeconds))
+            if (string.IsNullOrWhiteSpace(Convert.ToString(_currentService.DurationInSeconds)) || _currentService.DurationInSeconds == 0)
                 errors.AppendLine("Укажите длительность услуги");
+
+            if (_currentService.DurationInSeconds > 240 || _currentService.DurationInSeconds < 0)
+                errors.AppendLine("Длительность не может быть больше 240 минут или меньше 0");
 
             if (errors.Length > 0)
             {
@@ -54,19 +57,29 @@ namespace KoloskovAutoservice
                 return;
             }
 
-            if (_currentService.ID == 0)
-                Koloskov_AutoserviceEntities.GetContext().service_a_import.Add(_currentService);
+            var allServices = Koloskov_AutoserviceEntities.GetContext().service_a_import.ToList();
+            allServices = allServices.Where(p => p.Title == _currentService.Title).ToList();
 
-            try
+            if (allServices.Count == 0 || (_currentService.ID != 0 && allServices.Count <= 1))
             {
-                Koloskov_AutoserviceEntities.GetContext().SaveChanges();
-                MessageBox.Show("Информация сохранена");
-                Manager.MainFrame.GoBack();
+                if (_currentService.ID == 0)
+                    Koloskov_AutoserviceEntities.GetContext().service_a_import.Add(_currentService);
+
+                try
+                {
+                    Koloskov_AutoserviceEntities.GetContext().SaveChanges();
+                    MessageBox.Show("Информация сохранена");
+                    Manager.MainFrame.GoBack();
+                }
+
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message.ToString());
+                }
             }
-
-            catch (Exception ex)
+            else
             {
-                MessageBox.Show(ex.Message.ToString());
+                MessageBox.Show("Уже существует такая услуга");
             }
         }
     }

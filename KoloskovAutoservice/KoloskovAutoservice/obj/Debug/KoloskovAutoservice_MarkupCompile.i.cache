@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\applications\visual studio\repos\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\
+D:\3 курс\ИСП-3221\Колосков\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\
 KoloskovAutoservice
 none
 false
 DEBUG;TRACE
-D:\applications\visual studio\repos\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\App.xaml
-3-1661540727
-2715959011
-231914936619
-19-1729872368
-AddEditPage.xaml;MainWindow.xaml;ServicePage.xaml;
+D:\3 курс\ИСП-3221\Колосков\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\App.xaml
+4-1577664530
+2959904535
+242104274178
+191457518150
+AddEditPage.xaml;MainWindow.xaml;ServicePage.xaml;SignUpPage.xaml;
 
-False
+True
 

@@ -1,4 +1,4 @@
-﻿// Создание кода T4 для модели "D:\applications\visual studio\repos\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\KoloskovModel.edmx" включено. 
+﻿// Создание кода T4 для модели "D:\3 курс\ИСП-3221\Колосков\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\KoloskovModel.edmx" включено. 
 // Чтобы включить формирование кода прежних версий, измените значение свойства "Стратегия создания кода" конструктора
 // на "Legacy ObjectContext". Это свойство доступно в окне "Свойства", если модель
 // открыта в конструкторе.

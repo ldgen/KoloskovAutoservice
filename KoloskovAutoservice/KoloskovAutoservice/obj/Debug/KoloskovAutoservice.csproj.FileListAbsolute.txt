@@ -25,3 +25,62 @@ D:\applications\visual studio\repos\KoloskovAutoservice\KoloskovAutoservice\Kolo
 D:\applications\visual studio\repos\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\bin\Debug\EntityFramework.SqlServer.xml
 D:\applications\visual studio\repos\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\bin\Debug\ru\EntityFramework.resources.dll
 D:\applications\visual studio\repos\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\KoloskovAutoservice.csproj.CopyComplete
+D:\3 курс\ИСП-3221\Колосков\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\bin\Debug\KoloskovAutoservice.exe.config
+D:\3 курс\ИСП-3221\Колосков\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\bin\Debug\KoloskovAutoservice.exe
+D:\3 курс\ИСП-3221\Колосков\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\bin\Debug\KoloskovAutoservice.pdb
+D:\3 курс\ИСП-3221\Колосков\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\bin\Debug\EntityFramework.dll
+D:\3 курс\ИСП-3221\Колосков\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\bin\Debug\EntityFramework.SqlServer.dll
+D:\3 курс\ИСП-3221\Колосков\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\bin\Debug\EntityFramework.xml
+D:\3 курс\ИСП-3221\Колосков\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\bin\Debug\EntityFramework.SqlServer.xml
+D:\3 курс\ИСП-3221\Колосков\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\bin\Debug\ru\EntityFramework.resources.dll
+D:\3 курс\ИСП-3221\Колосков\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\KoloskovAutoservice.csproj.AssemblyReference.cache
+D:\3 курс\ИСП-3221\Колосков\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\AddEditPage.g.cs
+D:\3 курс\ИСП-3221\Колосков\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\MainWindow.g.cs
+D:\3 курс\ИСП-3221\Колосков\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\ServicePage.g.cs
+D:\3 курс\ИСП-3221\Колосков\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\App.g.cs
+D:\3 курс\ИСП-3221\Колосков\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\KoloskovAutoservice_Content.g.cs
+D:\3 курс\ИСП-3221\Колосков\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\KoloskovAutoservice_MarkupCompile.cache
+D:\3 курс\ИСП-3221\Колосков\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\KoloskovAutoservice_MarkupCompile.lref
+D:\3 курс\ИСП-3221\Колосков\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\App.baml
+D:\3 курс\ИСП-3221\Колосков\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\AddEditPage.baml
+D:\3 курс\ИСП-3221\Колосков\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\MainWindow.baml
+D:\3 курс\ИСП-3221\Колосков\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\ServicePage.baml
+D:\3 курс\ИСП-3221\Колосков\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\KoloskovAutoservice.g.resources
+D:\3 курс\ИСП-3221\Колосков\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\KoloskovAutoservice.Properties.Resources.resources
+D:\3 курс\ИСП-3221\Колосков\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\KoloskovAutoservice.csproj.GenerateResource.cache
+D:\3 курс\ИСП-3221\Колосков\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\KoloskovAutoservice.csproj.CoreCompileInputs.cache
+D:\3 курс\ИСП-3221\Колосков\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\KoloskovAutoservice.csproj.CopyComplete
+D:\3 курс\ИСП-3221\Колосков\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\KoloskovAutoservice.exe
+D:\3 курс\ИСП-3221\Колосков\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\KoloskovAutoservice.pdb
+D:\3 курс\ИСП-3221\Колосков\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\SignUpPage.g.cs
+D:\3 курс\ИСП-3221\Колосков\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\SignUpPage.baml
+D:\3 курс\ИСП-3221\Колосков\Проект 1\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\bin\Debug\KoloskovAutoservice.exe.config
+D:\3 курс\ИСП-3221\Колосков\Проект 1\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\bin\Debug\KoloskovAutoservice.exe
+D:\3 курс\ИСП-3221\Колосков\Проект 1\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\bin\Debug\KoloskovAutoservice.pdb
+D:\3 курс\ИСП-3221\Колосков\Проект 1\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\bin\Debug\EntityFramework.dll
+D:\3 курс\ИСП-3221\Колосков\Проект 1\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\bin\Debug\EntityFramework.SqlServer.dll
+D:\3 курс\ИСП-3221\Колосков\Проект 1\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\bin\Debug\EntityFramework.xml
+D:\3 курс\ИСП-3221\Колосков\Проект 1\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\bin\Debug\EntityFramework.SqlServer.xml
+D:\3 курс\ИСП-3221\Колосков\Проект 1\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\bin\Debug\ru\EntityFramework.resources.dll
+D:\3 курс\ИСП-3221\Колосков\Проект 1\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\KoloskovAutoservice.csproj.AssemblyReference.cache
+D:\3 курс\ИСП-3221\Колосков\Проект 1\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\AddEditPage.g.cs
+D:\3 курс\ИСП-3221\Колосков\Проект 1\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\MainWindow.g.cs
+D:\3 курс\ИСП-3221\Колосков\Проект 1\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\ServicePage.g.cs
+D:\3 курс\ИСП-3221\Колосков\Проект 1\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\SignUpPage.g.cs
+D:\3 курс\ИСП-3221\Колосков\Проект 1\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\App.g.cs
+D:\3 курс\ИСП-3221\Колосков\Проект 1\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\KoloskovAutoservice_Content.g.cs
+D:\3 курс\ИСП-3221\Колосков\Проект 1\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\KoloskovAutoservice_MarkupCompile.cache
+D:\3 курс\ИСП-3221\Колосков\Проект 1\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\KoloskovAutoservice_MarkupCompile.lref
+D:\3 курс\ИСП-3221\Колосков\Проект 1\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\App.baml
+D:\3 курс\ИСП-3221\Колосков\Проект 1\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\AddEditPage.baml
+D:\3 курс\ИСП-3221\Колосков\Проект 1\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\MainWindow.baml
+D:\3 курс\ИСП-3221\Колосков\Проект 1\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\ServicePage.baml
+D:\3 курс\ИСП-3221\Колосков\Проект 1\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\SignUpPage.baml
+D:\3 курс\ИСП-3221\Колосков\Проект 1\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\KoloskovAutoservice.g.resources
+D:\3 курс\ИСП-3221\Колосков\Проект 1\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\KoloskovAutoservice.Properties.Resources.resources
+D:\3 курс\ИСП-3221\Колосков\Проект 1\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\KoloskovAutoservice.csproj.GenerateResource.cache
+D:\3 курс\ИСП-3221\Колосков\Проект 1\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\KoloskovAutoservice.csproj.CoreCompileInputs.cache
+D:\3 курс\ИСП-3221\Колосков\Проект 1\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\KoloskovAutoservice.csproj.CopyComplete
+D:\3 курс\ИСП-3221\Колосков\Проект 1\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\KoloskovAutoservice.exe
+D:\3 курс\ИСП-3221\Колосков\Проект 1\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\KoloskovAutoservice.pdb
+D:\3 курс\ИСП-3221\Колосков\Проект 1\KoloskovAutoservice\KoloskovAutoservice\KoloskovAutoservice\obj\Debug\KoloskovAutoservice.csproj.SuggestedBindingRedirects.cache
